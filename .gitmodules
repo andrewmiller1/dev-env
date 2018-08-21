@@ -1,3 +1,0 @@
-[submodule "packages/development-environment-core"]
-	path = packages/development-environment-core
-	url = https://github.com/andrewmiller1/core
