@@ -17,9 +17,9 @@
     "development environment",
     "dev env",
     "koa",
-    "koajs"
+    "koajs",
     "koa-router"
-    "koa-send"
+    "koa-send",
     "server"
   ],
   "author": "definitelynotandrewmiller1 <andrew+npm@andrewmiller.business>",
