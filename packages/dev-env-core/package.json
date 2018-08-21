@@ -1,6 +1,6 @@
 {
   "name": "@development-environment/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "dev-env core.",
   "main": "index.js",
   "scripts": {
