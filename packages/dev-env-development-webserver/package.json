@@ -1,0 +1,40 @@
+{
+  "name": "@development-environment/development-webserver",
+  "version": "0.0.1",
+  "description": "Provides components necessary for a modern development server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/andrewmiller1/dev-env/tree/master/packages/dev-env-development-webserver",
+  "keywords": [
+    "development-environment/development-webserver",
+    "development-environment development-webserver",
+    "development-environment",
+    "dev-env/development-webserver",
+    "dev-env development-webserver",
+    "dev-env",
+    "development environment",
+    "dev env",
+    "development-webserver",
+    "server"
+  ],
+  "author": "definitelynotandrewmiller1 <andrew+npm@andrewmiller.business>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/andrewmiller1/dev-env/development-webserverissues"
+  },
+  "homepage": "https://github.com/andrewmiller1/dev-env/tree/master/packages/dev-env-development-webserver#readme",
+  "dependencies": {
+    "apollo-server-koa": "^2.0.0-rc.12",
+    "graphql": "^0.13.2",
+    "koa-router": "https://github.com/alexmingoia/koa-router/archive/v8.0.0-alpha.1.tar.gz",
+    "koa-send": "^5.0.0"
+  },
+  "optionalDependencies": {
+    "http-server": "^0.11.1"
+  },
+  "directories": {
+      "bin": "node_modules/.bin"
+  }
+}

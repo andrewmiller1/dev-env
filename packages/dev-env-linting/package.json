@@ -1,0 +1,35 @@
+{
+  "name": "@development-environment/linting",
+  "version": "0.0.1",
+  "description": "Automatically catches many issues as they happen",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/andrewmiller1/dev-env/tree/master/packages/dev-env-linting",
+  "keywords": [
+    "development-environment/linting",
+    "development-environment linting",
+    "development-environment",
+    "dev-env/linting",
+    "dev-env linting",
+    "dev-env",
+    "development environment",
+    "dev env",
+    "linting"
+  ],
+  "author": "definitelynotandrewmiller1 <andrew+npm@andrewmiller.business>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/andrewmiller1/dev-env/issues"
+  },
+  "homepage": "https://github.com/andrewmiller1/dev-env/tree/master/packages/dev-env-linting#readme",
+  "optionalDependencies": {
+    "file-name-linter": "git+https://gitlab.com/winniehell/file-name-linter.git"
+  },
+  "dependencies": {
+    "eslint": "^5.4.0"
+  },
+  "directories": {
+      "bin": "node_modules/.bin"
+  }
+}
